@@ -1,3 +1,5 @@
+# Hostile and fake post classification
+
 This project is aimed at multi-label classification of codemixed tweets to check for hostile content, hate speech and fake or misdirecting information.
 
 The cleaned and transliterated data is made available on the repository
